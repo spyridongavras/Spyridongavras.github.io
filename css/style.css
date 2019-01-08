@@ -232,6 +232,11 @@ footer a:hover{
 	text-decoration:none; /* Removes the decoration */
 	}
 	
+	/* Changes the padding from 100px to 0 when on mobile phone */
+	.text_padding{
+	padding:0px;
+}
+
 	/* Changes the style of the footer when in mobile phone  */
 	footer{
 	width:100%;
